@@ -45,7 +45,7 @@
     "velocity": "latest",
     "moment": "latest",
     "bourbon": "latest",
-    "mdi": "1.0.8-beta"
+    "font-awesome": ">=4.1.0"
   },
   "devDependencies": {
     "angular-route": "latest",
