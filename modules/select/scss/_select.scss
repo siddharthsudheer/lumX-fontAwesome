@@ -135,7 +135,7 @@
         &:after {
             content: '\f14a';
             @include transform(scale(0));
-            color: $teal-500;
+            color: #4CAF50;
         }
     }
 
