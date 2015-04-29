@@ -91,7 +91,6 @@ gulp.task('scss', function()
 {
     return gulp.src('demo/scss/lumx.scss')
         .pipe(plugins.plumber())
-        .pipe(plugins.rubySass())
         .pipe(gulp.dest('build'));
 });
 
