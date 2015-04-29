@@ -7,7 +7,7 @@ The first responsive front-end framework based on [AngularJS][angular] & [Google
 Three quick start options are available:
 
 - [Download the latest release][release].
-- Clone the repo: git clone https://github.com/lumapps/lumx.git.
+- Clone the repo: git clone https://github.com/siddharthsudheer/lumX-fontAwesome.git.
 - Install with Bower: `bower install lumx`.
 
 ## Documentation
@@ -46,4 +46,4 @@ Code and documentation copyright 2014 LumApps. Code released under the [MIT lice
 [gaepython]: https://cloud.google.com/appengine/downloads
 [gulp]: http://gulpjs.com/
 [material]: http://www.google.com/design/spec/material-design/introduction.html
-[release]: https://github.com/lumapps/lumX/tags
+[release]: https://github.com/siddharthsudheer/lumX-fontAwesome/tags

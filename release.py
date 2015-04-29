@@ -24,7 +24,7 @@ def updateHomepage(version):
         file_str = f.read()
 
     file_str = re.sub(r'ng-href="[^"]*" class="banner__dl-btn btn btn--xl btn--white btn--raised"',
-                      'ng-href="https://github.com/lumapps/lumX/archive/%s.zip" class="banner__dl-btn btn btn--xl btn--white btn--raised"' % version,
+                      'ng-href="https://github.com/siddharthsudheer/lumX-fontAwesome/archive/%s.zip" class="banner__dl-btn btn btn--xl btn--white btn--raised"' % version,
                       file_str)
 
     file_str = re.sub(r'<span class="banner__version">[^"]*<\/span>',

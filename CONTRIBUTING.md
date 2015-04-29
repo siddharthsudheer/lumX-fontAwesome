@@ -20,7 +20,7 @@ If you have questions about how to use AngularJS, please direct these to [StackO
 
 ## <a name="found-an-issue-"></a> Found an issue?
 
-If you find a bug in the source code or a mistake in the documentation, you can help us by submitting an issue to our [GitHub Repository](https://github.com/lumapps/lumx/issues). Even better you can submit a Pull Request with a fix.
+If you find a bug in the source code or a mistake in the documentation, you can help us by submitting an issue to our [GitHub Repository](https://github.com/siddharthsudheer/lumX-fontAwesome/issues). Even better you can submit a Pull Request with a fix.
 
 Please see the Submission Guidelines below.
 
@@ -44,7 +44,7 @@ If your issue appears to be a bug, and hasn't been reported, open a new issue. H
 ### Submitting a pull request
 Before you submit your pull request consider the following guidelines:
 
-* Search [GitHub](https://github.com/lumapps/lumx/pulls) for an open or closed Pull Request
+* Search [GitHub](https://github.com/siddharthsudheer/lumX-fontAwesome/pulls) for an open or closed Pull Request
 that relates to your submission. You don't want to duplicate effort.
 * Make your changes in a new git branch
 

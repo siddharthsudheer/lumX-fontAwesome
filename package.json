@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lumapps/lumx.git"
+    "url": "https://github.com/siddharthsudheer/lumX-fontAwesome.git"
   },
   "author": "LumApps",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lumapps/lumx/issues"
+    "url": "https://github.com/siddharthsudheer/lumX-fontAwesome/issues"
   },
-  "homepage": "https://github.com/lumapps/lumx"
+  "homepage": "https://github.com/siddharthsudheer/lumX-fontAwesome"
 }
