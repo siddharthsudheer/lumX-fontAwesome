@@ -37,7 +37,7 @@
 
         &:after {
             font-family:"FontAwesome";
-            content: "@fa-var-chevron-down";
+            content: '\f078';
             @include position(absolute, null $base-spacing-unit $base-spacing-unit null);
             @include font-size(14px);
             color: $black-3;
@@ -128,12 +128,12 @@
         }
 
         &:before {
-            content: "@fa-var-square-o";
+            content: '\f046';
             @include transform(scale(1));
         }
 
         &:after {
-            content: "@fa-var-check-square";
+            content: '\f14a';
             @include transform(scale(0));
             color: $teal-500;
         }
